@@ -42,7 +42,7 @@
             <Test message="This is an external JSX component" />
         </div>
         
-        <!-- <footer class="flex gap-2">
+         <footer class="flex gap-2">
             <button class="border p-2 " @click="setPageLayout('about')">
                 about
             </button>
@@ -58,7 +58,7 @@
             <button class="border p-2 " @click="setPageLayout(false)">
               Remove layout
             </button>
-        </footer> -->
+        </footer> 
     </div>
 </template>
 <script setup lang="ts">

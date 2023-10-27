@@ -1,6 +1,6 @@
 <template>
   <div>
-      <BaseBreadcrumbs />
+      <UiBreadcrumbs />
       <h1 class="text-[72px]">Catalog</h1>
       <p>
         The layout is set within <code>middleware/catalog.ts</code>.

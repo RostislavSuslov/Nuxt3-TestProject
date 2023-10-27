@@ -1,6 +1,6 @@
 <template>
   <div>
-    <BaseBreadcrumbs />
+    <UiBreadcrumbs />
     <h1 class="text-[72px]">Home</h1>
     <div class="flex-1">
       <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between">

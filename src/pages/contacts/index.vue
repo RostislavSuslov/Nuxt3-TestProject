@@ -1,6 +1,6 @@
 <template>
     <div>
-      <BaseBreadcrumbs />
+      <UiBreadcrumbs />
       <h1 class="text-[72px]">Contacts</h1>
       <p>Contacts page, Contacts page, Contacts page, Contacts page, Contacts page, Contacts page,</p>
       <div>
@@ -19,17 +19,11 @@
         </ClientOnly>
   
        
-        <BaseModal/>
+        <UiModal/>
       </div>
     </div>
-  </template>
+</template>
   
-  <script lang="ts" setup>
+<script lang="ts" setup>
 
-  </script>
-  
-  <style>
-  
-  </style>
-  
-  
+</script>

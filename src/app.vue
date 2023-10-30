@@ -23,7 +23,7 @@
         </NuxtLayout> -->
       
         <div class="h-full">
-            <nuxt-layout name="default">
+            <nuxt-layout>
             
             <nuxt-loading-indicator />
             <nuxt-page/>

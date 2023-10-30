@@ -1,4 +1,5 @@
 export default defineNuxtRouteMiddleware(() => {
-    setPageLayout('catalog')
+  console.log('middleware true')
+    // setPageLayout('catalog')
   })
   

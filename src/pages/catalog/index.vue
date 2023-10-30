@@ -11,7 +11,7 @@
 
 <script setup>
 definePageMeta({
-  middleware: 'catalog'
+  layout: 'catalog'
 })
 </script>
 
